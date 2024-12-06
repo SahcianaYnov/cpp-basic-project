@@ -13,3 +13,5 @@ CMakeUserPresets.json
 *.exe
 *.obj
 /build
+.vs
+/out
